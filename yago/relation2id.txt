@@ -1,0 +1,15 @@
+14
+-<wroteMusicFor> 0
+<isLocatedIn> 1
+rdf:type 2
+<happenedIn> 3
+-<owns> 4
+-<created> 5
+-<edited> 6
+<hasPages> 7
+-<actedIn> 8
+<hasLongitude> 9
+<hasDuration> 10
+<hasLatitude> 11
+<hasImdb> 12
+-<directed> 13
